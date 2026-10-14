@@ -72,7 +72,7 @@ function Footer() {
     <footer className="site-footer">
       <span>© {new Date().getFullYear()} Bildad</span>
       <span>morataconnect <span className="footer-spark">✳</span></span>
-      <a href="mailto:morata2005@gmail.com">Email me ↗</a>
+      <a href="mailto:bildadtitus2005@gmail.com">Email me ↗</a>
     </footer>
   );
 }
